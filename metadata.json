@@ -1,0 +1,6 @@
+{
+  "name": "SUR GRANULES - Polymer Engineering & B2B Plant Portal",
+  "description": "Industrial procurement website and real-time plant operations console for recycled HDPE & PP granules (0.2 MFI), Ankleshwar GIDC, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
